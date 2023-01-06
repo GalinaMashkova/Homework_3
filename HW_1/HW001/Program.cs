@@ -3,7 +3,8 @@
 // a = 2 b = 10 -> max = 10
 // a = -9 b = -3 -> max = -3
 
-int a = 31;
-int b = 5;
-int result = NullableComparer = a + b;
-Console.ErateLine(result);
+//int a = 31;
+//int b = 5;
+//int result = NullableComparer = a + b;
+//Console.WriteLine(result);
+Задача
