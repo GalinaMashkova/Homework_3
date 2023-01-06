@@ -1,0 +1,15 @@
+C:\REPO\Homework_3\HW_1\HW001\bin\Debug\net6.0\HW001.exe
+C:\REPO\Homework_3\HW_1\HW001\bin\Debug\net6.0\HW001.deps.json
+C:\REPO\Homework_3\HW_1\HW001\bin\Debug\net6.0\HW001.runtimeconfig.json
+C:\REPO\Homework_3\HW_1\HW001\bin\Debug\net6.0\HW001.dll
+C:\REPO\Homework_3\HW_1\HW001\bin\Debug\net6.0\HW001.pdb
+C:\REPO\Homework_3\HW_1\HW001\obj\Debug\net6.0\HW001.csproj.AssemblyReference.cache
+C:\REPO\Homework_3\HW_1\HW001\obj\Debug\net6.0\HW001.GeneratedMSBuildEditorConfig.editorconfig
+C:\REPO\Homework_3\HW_1\HW001\obj\Debug\net6.0\HW001.AssemblyInfoInputs.cache
+C:\REPO\Homework_3\HW_1\HW001\obj\Debug\net6.0\HW001.AssemblyInfo.cs
+C:\REPO\Homework_3\HW_1\HW001\obj\Debug\net6.0\HW001.csproj.CoreCompileInputs.cache
+C:\REPO\Homework_3\HW_1\HW001\obj\Debug\net6.0\HW001.dll
+C:\REPO\Homework_3\HW_1\HW001\obj\Debug\net6.0\refint\HW001.dll
+C:\REPO\Homework_3\HW_1\HW001\obj\Debug\net6.0\HW001.pdb
+C:\REPO\Homework_3\HW_1\HW001\obj\Debug\net6.0\HW001.genruntimeconfig.cache
+C:\REPO\Homework_3\HW_1\HW001\obj\Debug\net6.0\ref\HW001.dll
