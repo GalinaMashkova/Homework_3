@@ -7,8 +7,8 @@
 int a = 5;
 int b = 7;
 int max = a;
-int min = b;
-if(b > max) max = b; min = a;
+int min = a;
+if(b > max) max = b; min = a; 
 {
     Console.WriteLine(max);
     Console.WriteLine(min);
