@@ -7,3 +7,4 @@ int number;
 str = Console.ReadLine(); //считываем число, которое вводим в консоль в строку str.
 number = Convert.ToInt32(str); //конвертируем строку и результат помещаем в переменую number.
 Console.WriteLine(str[1]);
+//Console.WriteLine(str.Substring(1,1)); //или так можно
