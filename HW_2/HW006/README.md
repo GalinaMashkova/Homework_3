@@ -6,4 +6,4 @@
 782 -> 8
 918 -> 1
 
- [Блок-схема](diagram.drawio.png) | [КОД](Program.cs)
+[КОД](Program.cs)
