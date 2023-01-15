@@ -7,21 +7,24 @@
 // 23432 -> да
 // НЕЛЬЗЯ ИСПОЛЬЗОВАТЬ СТРОКИ
 
-Console.WriteLine("Введите пятизначное число ");
-int number = Convert.ToInt32(Console.ReadLine());
-bool Palindrome(int a)
+    Console.WriteLine("Введите пятизначное число ");
+    int number = Convert.ToInt32(Console.ReadLine());
 {
-    int b = 0;
-    int interval = a;
-    while (a > 0)
+    int n, digit, rev = 0;
+    
+    n = number;
+    do
     {
-        int quantity = a % 10;
-        a = a / 10;
-        b = b * 10 + quantity;
-    }
-    return interval == b;
-if(Palindrome(number))
-    Console.WriteLine("Число не является палиндромом");
-else 
-    Console.WriteLine("Число не является палиндромом");
+        digit = number % 10;
+        rev = (rev * 10) + digit;
+        number = number / 10;
+    } while (number != 0);
+ 
+    if (n == rev)
+        Console.WriteLine ("Число является палиндромом ");
+    else
+        Console.WriteLine ("Число не является палиндромом ");
+
+    return 0;
 }
+
