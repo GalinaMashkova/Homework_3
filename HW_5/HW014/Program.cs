@@ -19,8 +19,9 @@ Console.WriteLine(); // печать списка случайных цифр
 int j = array.Length - 1;
 for (int i = 0; i < (array.Length + 1) / 2; i++)
 
-//4. Поиск произведения чисел и иъ печать.
+//4. Поиск произведения чисел и их печать.
  {
      Console.Write(array[i] * array[j] + " ");
      j--;
  }
+ 
