@@ -71,7 +71,6 @@ string GoodPrint(int[] bin, int dec)
     return $"\n{String.Join("", bin)} >> {dec}"; //\n переход на новую строку
 }
 
-
 int number = ValueInput();
 int[] arr = {1,0,1,1,1,0,1};
 //int[] arr = CreateArr(number);
@@ -80,5 +79,3 @@ int result = BinToDecimal(arr);
 string binPrint = PrintArray(arr);
 Console.WriteLine(binPrint);
 Console.WriteLine(GoodPrint(arr, result));
-
-
